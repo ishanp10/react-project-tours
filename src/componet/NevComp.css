@@ -1,0 +1,15 @@
+*{margin: 0; padding:0}
+
+.NavStyle{
+    width: 100%;
+    height: 100px;
+    background: #9c0c0c;
+    color: white;
+}
+
+.NavStyle ul{
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
